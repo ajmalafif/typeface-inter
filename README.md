@@ -4,21 +4,21 @@ The intent is to easily use [Inter UI](https://github.com/rsms/inter/) typeface 
 
 
 ### Installing
-```
+```bash
 npm install --save typeface-inter
 ```
 
 ## How-to use
 
 Simply require the package in your project’s entry file:
-```
+```javascript
 // Load Inter UI typeface
 require('typeface-inter')
 ```
 
 ## Authors
 
-**Rasmus** - [@rsms](https://github.com/rsms)
+**Rasmus** [@rsms](https://github.com/rsms)
 
 ## License
 
