@@ -1,0 +1,16 @@
+{
+  "name": "typeface-inter",
+  "version": "3.1.0",
+  "description": "Font files for the Inter UI font family.",
+  "main": "inter-ui.css",
+  "keywords": [
+    "inter",
+    "inter-ui",
+    "typeface",
+    "font",
+    "font family"
+  ],
+  "author": "Rasmus Andersson (https://rsms.me)",
+  "license": "OFL-1.1",
+  "repository": "git@github.com:ajmalafif/typeface-inter.git"
+}
