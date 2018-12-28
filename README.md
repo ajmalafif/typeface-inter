@@ -16,10 +16,6 @@ Simply require the package in your project’s entry file:
 require('typeface-inter')
 ```
 
-## Authors
-
-**Rasmus** [@rsms](https://github.com/rsms)
-
 ## License
 
 This project is licensed under the SIL Open Font License 1.1 - see the [LICENSE.md](LICENSE.md) file for details
