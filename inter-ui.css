@@ -165,11 +165,11 @@
     url("Inter UI (web)/Inter-UI-BlackItalic.woff") format("woff");
 }
 
-/*
+/* --------------------------------------------------------------------------
 Single variable font.
+
 Note that you may want to do something like this to make sure you're serving
 constant fonts to older browsers:
-
 html {
   font-family: 'Inter UI', sans-serif;
 }
@@ -181,15 +181,15 @@ html {
 
 BUGS:
 - Safari 12.0 will default to italic instead of regular when font-weight
-font-display: swap;
   is provided in a @font-face declaration.
   Workaround: Use "Inter UI var alt" for Safari, or explicitly set
   `font-variation-settings:"slnt" DEGREE`.
 */
 @font-face {
   font-family: "Inter UI var";
-  font-weight: 400 900; /* safe weight range */
+  font-weight: 100 900; /* prev range was 400 900 */
   font-display: swap;
+  font-style: oblique 0deg 10deg;
   src: url("Inter UI (web)/Inter-UI.var.woff2") format("woff2-variations"),
     url("Inter UI (web)/Inter-UI.var.woff2") format("woff2");
 }
@@ -207,7 +207,7 @@ font-display: swap;
 */
 @font-face {
   font-family: "Inter UI var alt";
-  font-weight: 400 900;
+  font-weight: 100 900;
   font-display: swap;
   font-style: normal;
   font-named-instance: "Regular";
@@ -218,7 +218,7 @@ font-display: swap;
 }
 @font-face {
   font-family: "Inter UI var alt";
-  font-weight: 400 900;
+  font-weight: 100 900;
   font-display: swap;
   font-style: italic;
   font-named-instance: "Italic";
