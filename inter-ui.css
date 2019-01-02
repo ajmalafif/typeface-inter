@@ -1,6 +1,58 @@
 @font-face {
   font-family: "Inter UI";
   font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url("Inter UI (web)/Inter-UI-Thin-BETA.woff2") format("woff2"),
+    url("Inter UI (web)/Inter-UI-Thin-BETA.woff") format("woff");
+}
+@font-face {
+  font-family: "Inter UI";
+  font-style: italic;
+  font-weight: 100;
+  font-display: swap;
+  src: url("Inter UI (web)/Inter-UI-ThinItalic-BETA.woff2") format("woff2"),
+    url("Inter UI (web)/Inter-UI-ThinItalic-BETA.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Inter UI";
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url("Inter UI (web)/Inter-UI-ExtraLight-BETA.woff2") format("woff2"),
+    url("Inter UI (web)/Inter-UI-ExtraLight-BETA.woff") format("woff");
+}
+@font-face {
+  font-family: "Inter UI";
+  font-style: italic;
+  font-weight: 200;
+  font-display: swap;
+  src: url("Inter UI (web)/Inter-UI-ExtraLightItalic-BETA.woff2")
+      format("woff2"),
+    url("Inter UI (web)/Inter-UI-ExtraLightItalic-BETA.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Inter UI";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url("Inter UI (web)/Inter-UI-Light-BETA.woff2") format("woff2"),
+    url("Inter UI (web)/Inter-UI-Light-BETA.woff") format("woff");
+}
+@font-face {
+  font-family: "Inter UI";
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url("Inter UI (web)/Inter-UI-LightItalic-BETA.woff2") format("woff2"),
+    url("Inter UI (web)/Inter-UI-LightItalic-BETA.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Inter UI";
+  font-style: normal;
   font-weight: 400;
   font-display: swap;
   src: url("Inter UI (web)/Inter-UI.var.woff2") format("woff2-variations"),
@@ -12,7 +64,8 @@
   font-style: italic;
   font-weight: 400;
   font-display: swap;
-  src: url("Inter UI (web)/Inter-UI.var.woff2") format("woff2-variations"),
+  src: url("Inter UI (web)/Inter-UI-italic.var.woff2")
+      format("woff2-variations"),
     url("Inter UI (web)/Inter-UI-Italic.woff2") format("woff2"),
     url("Inter UI (web)/Inter-UI-Italic.woff") format("woff");
 }
