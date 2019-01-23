@@ -24,4 +24,4 @@ This project is licensed under the SIL Open Font License 1.1 - see the [LICENSE.
 
 All credits to [Rasmus](https://github.com/rsms) for his creation of [Inter UI typeface](https://github.com/rsms/inter).
 
-[Philip Belesky](https://github.com/philipbelesky) for his repo at [inter-ui](https://github.com/philipbelesky/inter-ui)
+[Philip Belesky](https://github.com/philipbelesky) for his repo at [inter-ui](https://github.com/philipbelesky/inter-ui).
