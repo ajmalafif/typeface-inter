@@ -1,6 +1,6 @@
 {
   "name": "typeface-inter",
-  "version": "3.4.0",
+  "version": "3.5.0",
   "description": "npm package for the Inter UI font family.",
   "main": "inter.css",
   "keywords": [
