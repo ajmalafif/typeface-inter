@@ -1,6 +1,6 @@
 {
   "name": "typeface-inter",
-  "version": "3.5.0",
+  "version": "3.6.0",
   "description": "npm package for the Inter UI font family.",
   "main": "inter.css",
   "keywords": [
@@ -9,7 +9,7 @@
     "font",
     "font family"
   ],
-  "author": "Ajmal Afif Jamal (https://ajmalafif.design)",
+  "author": "Ajmal Afif Jamal (https://ajmalafif.com)",
   "license": "OFL-1.1",
   "repository": "git@github.com:ajmalafif/typeface-inter.git"
 }
