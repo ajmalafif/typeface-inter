@@ -12,7 +12,7 @@ npm install --save typeface-inter
 
 Simply require the package in your project’s entry file:
 ```javascript
-// Load Inter UI typeface
+// Load Inter typeface
 require('typeface-inter')
 ```
 
