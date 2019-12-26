@@ -166,7 +166,7 @@ Usage:
   font-display: swap;
   font-style: normal;
   font-named-instance: 'Regular';
-  src: url("Inter (web)/Inter-roman.var.woff2") format("woff2");
+  src: url("Inter (Web)/Inter-roman.var.woff2") format("woff2");
 }
 @font-face {
   font-family: 'Inter var';
