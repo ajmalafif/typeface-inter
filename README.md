@@ -18,7 +18,7 @@ require('typeface-inter')
 
 ## License
 
-This project is licensed under the SIL Open Font License 1.1 - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the SIL Open Font License 1.1 - see the [LICENSE.txt](LICENSE.txt) file for details.
 
 ## Acknowledgments
 
